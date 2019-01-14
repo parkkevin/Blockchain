@@ -1,6 +1,3 @@
-// Kevin Park
-// 301322108
-
 package work_queue
 
 type Worker interface {
